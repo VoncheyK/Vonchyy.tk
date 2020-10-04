@@ -1,8 +1,18 @@
 body {
-    background-color: black;
+    background-color: rgb(13, 13, 13);
+
 }
 
-h1 {
+.top {
+    text-align: center;
     color: white;
     font-family: arial;
+}
+
+.top-about {
+    text-align: center;
+    color: rgba(199, 199, 199, 0.582);
+    font-family: arial;
+    font-size: 15px;
+    height: 200px;
 }
