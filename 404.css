@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(17, 7, 39);
+}
+
+h1 {
+    text-align: center;
+    color: #10b17b;
+    font-family: courier;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    font-size: 20px;
+    text-align: center;
+    color: #10b17b;
+    font-family: arial;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0c8f63;
+}
