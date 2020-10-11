@@ -20,11 +20,10 @@
     font-size: 30px;
     float: right;
     color: #10b17b;
-    font-family: arial;
+    font-family: courier;
     text-decoration: none;
 }
 
 .topnav a:hover {
-    text-decoration-color: #d4d4d4;
-    text-decoration: underline;
+    color: #0e8d63;
 }
