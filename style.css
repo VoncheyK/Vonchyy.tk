@@ -1,18 +1,14 @@
 body {
-    background-color: rgb(13, 13, 13);
+    background-color: rgb(17, 7, 39);
 
 }
 
 .top {
     text-align: center;
-    color: white;
     font-family: arial;
+    color: rgb(8, 128, 92);
 }
 
-.top-about {
-    text-align: center;
-    color: rgba(199, 199, 199, 0.582);
-    font-family: arial;
-    font-size: 15px;
-    height: 200px;
+.top:hover {
+ color: rgba(23, 189, 139, 0.432);
 }
